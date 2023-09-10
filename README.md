@@ -19,7 +19,6 @@ The project is organized as follows:
 Make sure you have the following libraries installed to run the Jupyter Notebook:
 
 - Python
-- NumPy
 - pandas
 - Matplotlib
 - scikit-learn
